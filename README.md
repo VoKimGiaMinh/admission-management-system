@@ -1,4 +1,4 @@
-# Project Title
+# Admission Management System
 
 ## 📘 Description
 
