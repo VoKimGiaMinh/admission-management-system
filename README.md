@@ -5,7 +5,7 @@
 🎓 Student Admission & Performance Visualization System
 This Python-based application simulates a student admission system that evaluates applicants based on their academic performance. It combines user authentication, GPA calculation, school assignment, and           interactive data visualization using Plotly.
 
-##🔐 Key Features:
+## 🔐 Key Features:
 - Password Validation: Enforces strong password rules (length, uppercase, digits, special characters).
 - Dynamic Student Input: Collects multiple students’ names and subject scores.
 - GPA Calculation.
@@ -18,7 +18,7 @@ This Python-based application simulates a student admission system that evaluate
     📊 Bar Chart: Compares students' scores across subjects.
     🥧 Pie Chart: Displays the distribution of students by school.
 
-##🧰 Technologies Used:
+## 🧰 Technologies Used:
 - Python (core logic & calculations)
 - Pandas (data manipulation)
 - Plotly (interactive graphs)
