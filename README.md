@@ -9,6 +9,7 @@ The application authenticates a user using a secure password policy, collects st
 - Validate password
 - Collect records on memory
 - Calculate GPA & Assign school
+- Draw a dashboard to summarize the data
 
 ## 🛠️ Installation
 
