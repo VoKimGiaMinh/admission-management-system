@@ -24,6 +24,26 @@ This Python-based application simulates a student admission system that evaluate
 - Plotly (interactive graphs)
 - Collections & String Modules (validation & counting)
 
+## 🧾 How to use (Step-by-Step):
+- Step 1: Input the username
+
+    Example: MinhVo
+
+- Step 2: Enter the password, make sure your password have:
+    - At least 10 characters long
+    - At least 1 uppercase
+    - 2 or 3 digit
+    - 1 special character
+
+    Example: @Minhvo123
+
+- Step 3: Enter the number of student (You can have up to 50 students):
+
+    Example: 2 (If you have two students)
+
+- Step 4: Enter the names of the students and their score
+- Step 5: See the result!
+
 ## 🛠️ Installation
 
 Make sure you have Python installed
